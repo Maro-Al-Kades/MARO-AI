@@ -1,0 +1,95 @@
+{
+  "DashboardRoute": {
+    "title": "Explore the power of AI",
+    "description": "Chat with the smartest AI - Experience the power of AI",
+
+    "tools": [
+      {
+        "label": "Conversation",
+        "href": "/conversation",
+        "icon": "hugeicons:ai-chat-02",
+        "color": "text-violet-500",
+        "bgColor": "bg-violet-500/10"
+      },
+      {
+        "label": "Image Generation",
+        "href": "/image",
+        "icon": "hugeicons:ai-image",
+        "color": "text-pink-700",
+        "bgColor": "bg-pink-700/10"
+      },
+      {
+        "label": "Video Generation",
+        "href": "/video",
+        "icon": "hugeicons:ai-video",
+        "color": "text-orange-700",
+        "bgColor": "bg-orange-700/10"
+      },
+      {
+        "label": "Music Generation",
+        "href": "/music",
+        "icon": "hugeicons:ai-voice",
+        "color": "text-emerald-700",
+        "bgColor": "bg-emerald-700/10"
+      },
+      {
+        "label": "Code Generation",
+        "href": "/code",
+        "icon": "hugeicons:ai-programming",
+        "color": "text-yellow-500",
+        "bgColor": "bg-yellow-500/10"
+      }
+    ],
+    "sidebar-routes": [
+      {
+        "label": "Dashboard",
+        "href": "/en/dashboard",
+        "icon": "hugeicons:dashboard-circle-settings",
+        "color": "text-sky-500"
+      },
+      {
+        "label": "Conversation",
+        "href": "/en/conversation",
+        "icon": "hugeicons:ai-chat-02",
+        "color": "text-violet-500"
+      },
+      {
+        "label": "Image Generation",
+        "href": "/en/image",
+        "icon": "hugeicons:ai-image",
+        "color": "text-pink-700"
+      },
+      {
+        "label": "Video Generation",
+        "href": "/en/video",
+        "icon": "hugeicons:ai-video",
+        "color": "text-orange-700"
+      },
+      {
+        "label": "Music Generation",
+        "href": "/en/music",
+        "icon": "hugeicons:ai-voice",
+        "color": "text-emerald-700"
+      },
+      {
+        "label": "Code Generation",
+        "href": "/en/code",
+        "icon": "hugeicons:ai-programming",
+        "color": "text-yellow-500"
+      },
+      {
+        "label": "Settings",
+        "href": "/en/settings",
+        "icon": "hugeicons:ai-setting",
+        "color": "text-gray-300"
+      }
+    ]
+  },
+
+  "ConversationRoute": {
+    "title": "Conversation",
+    "description": "Our most advanced conversation model.",
+    "iconColor": "text-violet-500",
+    "bgColor": "bg-violet-500/10"
+  }
+}

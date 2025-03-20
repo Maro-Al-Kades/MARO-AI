@@ -1,0 +1,95 @@
+{
+  "DashboardRoute": {
+    "title": "استكشف قوة الذكاء الاصطناعي",
+    "description": "تحدث مع أذكى ذكاء اصطناعي - واكتشف إمكانياته المذهلة",
+
+    "tools": [
+      {
+        "label": "المحادثة",
+        "href": "/conversation",
+        "icon": "hugeicons:ai-chat-02",
+        "color": "text-violet-500",
+        "bgColor": "bg-violet-500/10"
+      },
+      {
+        "label": "توليد الصور",
+        "href": "/image",
+        "icon": "hugeicons:ai-image",
+        "color": "text-pink-700",
+        "bgColor": "bg-pink-700/10"
+      },
+      {
+        "label": "توليد الفيديو",
+        "href": "/video",
+        "icon": "hugeicons:ai-video",
+        "color": "text-orange-700",
+        "bgColor": "bg-orange-700/10"
+      },
+      {
+        "label": "توليد الموسيقى",
+        "href": "/music",
+        "icon": "hugeicons:ai-voice",
+        "color": "text-emerald-700",
+        "bgColor": "bg-emerald-700/10"
+      },
+      {
+        "label": "توليد الأكواد",
+        "href": "/code",
+        "icon": "hugeicons:ai-programming",
+        "color": "text-yellow-500",
+        "bgColor": "bg-yellow-500/10"
+      }
+    ],
+    "sidebar-routes": [
+      {
+        "label": "لوحة التحكم",
+        "href": "/ar/dashboard",
+        "icon": "hugeicons:dashboard-circle-settings",
+        "color": "text-sky-500"
+      },
+      {
+        "label": "المحادثة",
+        "href": "/ar/conversation",
+        "icon": "hugeicons:ai-chat-02",
+        "color": "text-violet-500"
+      },
+      {
+        "label": "توليد الصور",
+        "href": "/ar/image",
+        "icon": "hugeicons:ai-image",
+        "color": "text-pink-700"
+      },
+      {
+        "label": "توليد الفيديو",
+        "href": "/ar/video",
+        "icon": "hugeicons:ai-video",
+        "color": "text-orange-700"
+      },
+      {
+        "label": "توليد الموسيقى",
+        "href": "/ar/music",
+        "icon": "hugeicons:ai-voice",
+        "color": "text-emerald-700"
+      },
+      {
+        "label": "توليد الأكواد",
+        "href": "/ar/code",
+        "icon": "hugeicons:ai-programming",
+        "color": "text-yellow-500"
+      },
+      {
+        "label": "الإعدادات",
+        "href": "/ar/settings",
+        "icon": "hugeicons:ai-setting",
+        "color": "text-gray-300"
+      }
+    ]
+  },
+
+  "ConversationRoute": {
+    "title": "المحادثة",
+    "description": "أقوى نموذج محادثة متقدم لدينا.",
+    "iconColor": "text-violet-500",
+    "bgColor": "bg-violet-500/10"
+  }
+}
